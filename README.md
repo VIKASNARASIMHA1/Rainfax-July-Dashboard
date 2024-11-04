@@ -5,7 +5,7 @@ Rainfax is an imaginary delivery company based out from Bengaluru. It works as d
 
 ## Preview:
 
-[Picture](PICTURE.JPG)
+![Picture](PICTURE.JPG)
 
 [Download the pbix file](Rainfax_July.pbix)
 
